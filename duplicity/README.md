@@ -1,3 +1,6 @@
+#Docs
+http://duplicity.nongnu.org/duplicity.1.html
+
 #Installation
 ```
 $ sudo apt-get install python-software-properties
